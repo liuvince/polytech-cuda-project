@@ -16,7 +16,7 @@ Merge two by two for all i, Ai and Bi
 
 ```
 nvcc batch_merge.cu -o batch_merge
-./path_merge
+./batch_merge
 ```
 
 ## References
